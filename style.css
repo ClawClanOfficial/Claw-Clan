@@ -26,7 +26,7 @@ font-family: 'Londrina Solid', cursive;
 h1{color: orange;
   font-size: 30px;
  }
-.links{font-size: 25px; color: firebrick; text-align: center;margin-left: 170px; 
+.links{font-size: 25px; color: firebrick; text-align: center;margin-left: 100px; 
 }
 .links:hover{font-size: 35px;color: white;background-color:yellow ;text-shadow: 3px 3px steelblue; padding: 10px 6px 9px 7px; }
 
@@ -63,6 +63,6 @@ text-align: justify;
     margin-right: 20;
     
 }
-.para{color: black;
+.para{color: whitesmoke;
     font-family: 'Londrina Solid', cursive;
-    font-size: 30px;}
+    font-size: 50px;}
